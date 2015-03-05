@@ -31,7 +31,7 @@ Please substitute $SCALA_VERSION$ with your Scala version (we support |scala_ver
             <artifactId>casbah_$SCALA_VERSION$</artifactId>
             <version> |release| </version>
             <type>pom</type>
-        <dependency>
+        </dependency>
 
 
 Setting Up Ivy (w/ Ant)
